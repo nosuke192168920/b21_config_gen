@@ -1,5 +1,5 @@
 /*
- * cps_b21_config_gen
+ * b21_config_gen
  * Copyright (c) 2025 nosuke <sasugaanija@gmail.com>
  *
  * This software is released under the MIT License.
